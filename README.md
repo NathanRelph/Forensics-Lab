@@ -16,6 +16,7 @@
 
 <img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/3.png" width="650" height="400" />
 <img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/4.png" width="650" height="400" />
+<img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/5.png" width="650" height="400" />
 <img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/6.png" width="650" height="400" />
 <img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/7.png" width="350" height="250" />
 <img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/8.png" width="350" height="250" />
