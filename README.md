@@ -14,14 +14,11 @@
 - In this lab I will be trying to recover deleted files from this USB stick, so the first step is to delete all the files.
 - Open FTK Imager, and add an Evidence Item.
 
-
-
-
-
-
-
-
-
-
-
-<h4><ins>Smaller_Header:</ins></h4>
+<img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/3.png" width="650" height="400" />
+<img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/4.png" width="650" height="400" />
+<img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/6.png" width="650" height="400" />
+<img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/7.png" width="650" height="400" />
+<img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/8.png" width="650" height="400" />
+<img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/9.png" width="650" height="400" />
+<img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/10.png" width="650" height="400" />
+<img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/11.png" width="650" height="400" />
