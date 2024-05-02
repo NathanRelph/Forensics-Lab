@@ -23,7 +23,8 @@
 - Open FTK Imager, and add an Evidence Item.
 
 <img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/3_Crop.png" width="350" height="300" /><img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/4_Crop.png" width="350" height="300" />
-- Picking a physical drive here would be better than the logical drive in this scenario because..
+- Picking a physical drive here would be better than the logical drive in this scenario because it creates a bit-by-bit copy inlcuding deleted or hidden date.
+- Logical acquisition is faster, but using the file system table can miss these deleted files.
 - Then I'm going to select my USB stick here.
 
 <img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/5_Crop.png" width="250" height="300" />
