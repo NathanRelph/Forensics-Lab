@@ -15,7 +15,7 @@
 <h2><ins>Goal:</ins></h2>
 
 - Recover deleted files using FTK Imager and Autopsy.
-- Showcase Fdisk & DBAN
+- Showcase Fdisk & DBAN secure wipe.
 
 ## FTK Imager
 <img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/1.png" width="550" height="300" /> <img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/2_Crop.png" width="250" height="300" />
