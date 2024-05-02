@@ -7,7 +7,7 @@
 <h2><ins>Tools:</ins></h2>
 
 - [FTK Imager](https://github.com/NathanRelph/Forensics-Lab/tree/main?tab=readme-ov-file#ftk-imager)
-- Autopsy Link
+- [Autopsy](https://github.com/NathanRelph/Forensics-Lab/blob/main/README.md#autopsy)
 - Fdisk Link
 - DBAN Link
 
