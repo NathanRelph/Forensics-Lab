@@ -28,7 +28,7 @@
 
 <img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/5_Crop.png" width="250" height="300" />
 
-- The select export disk image to start the process.
+- The select export disk image to start the data aquisition process.
   
 <img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/6_Crop.png" width="700" height="300" />
 
