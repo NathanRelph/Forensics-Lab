@@ -18,7 +18,7 @@
 - Showcase Fdisk & DBAN secure wipe.
 
 ## FTK Imager
-<img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/1.png" width="550" height="300" /> <img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/2_Crop.png" width="250" height="300" />
+<img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/1.png" width="550" height="300" /> <img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/2_Crop.png" width="220" height="300" />
 - In this lab I will be trying to recover deleted files from this USB stick, so the first step is to delete all the files.
 - Open FTK Imager, and add an Evidence Item.
 
@@ -30,7 +30,7 @@
 
 - The select export disk image to start the process.
   
-<img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/6_Crop.png" width="750" height="300" />
+<img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/6_Crop.png" width="700" height="300" />
 
 - Select raw(dd) or SMART. In this scenario I'm going to choose raw(dd) for the bit-by-bit copy.
 
@@ -46,3 +46,5 @@
 <img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/11.png" width="350" height="250" />
 
 - bullet
+
+## Autopsy
