@@ -28,11 +28,11 @@
 
 <img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/5_Crop.png" width="250" height="300" />
 
-- bullet
+- The select export disk image to start the process.
   
 <img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/6_Crop.png" width="750" height="300" />
 
-- bullet
+- Selecting raw(dd) or SMART. In this scenario I'm going to choose raw(dd) for the bit-by-bit copy.
 
   
 <img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/7.png" width="350" height="250" /><img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/8.png" width="350" height="250" />
