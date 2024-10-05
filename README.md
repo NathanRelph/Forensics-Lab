@@ -82,7 +82,7 @@
 
 - bullet
   
-<img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/20.png" width="450" height="450" />
+<img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/20.png" width="450" height="250" />
 
 - bullet
 
