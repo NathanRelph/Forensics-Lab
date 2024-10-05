@@ -89,11 +89,12 @@
 ## Diskpart
 <img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/21.png" width="350" height="250" />
 
+<img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/22.png" width="600" height="100" />
+
 - Diskpart is a tool used to manage storage devices on a Windows computer. In this example, Disk 3 is chosen since it matches the size of the USB's storage. This can be cross-referenced with Window's File Explorer under "This PC".
   
-<img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/22.png" width="600" height="100" />
   
-<img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/23.png" width="350" height="50" />
+<img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/23.png" width="350" height="75" />
 
 - Diskpart clean all is the command show here. It basically rewrites every sector on the USB with zeroes so the data is harder to recover.
   
