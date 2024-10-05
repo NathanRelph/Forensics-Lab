@@ -38,7 +38,7 @@
   
 <img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/7.png" width="350" height="250" /><img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/8.png" width="350" height="250" />
 
-- bullet
+- Adding image information is done here for documentation purposes, and then a destination of the image is chosen.
 
 <img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/9.png" width="350" height="300" /><img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/10_Crop.png" width="350" height="250" />
 
