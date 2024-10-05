@@ -38,15 +38,15 @@
   
 <img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/7.png" width="350" height="250" /><img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/8.png" width="350" height="250" />
 
-- Adding image information is done here for documentation purposes, and then a destination of the image is chosen.
+- Adding image information is done here for documentation purposes, and then a destination for the image is chosen.
 
 <img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/9.png" width="350" height="300" /><img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/10_Crop.png" width="350" height="250" />
 
-- bullet
+- After that, the creation of the image can begin, and a hash is created for verification purposes.
 
 <img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/11.png" width="350" height="250" />
 
-- bullet
+- Once done, FTK Imager can be closed, and the next step of analyzing the image in Autopsy can begin.
 
 ## Autopsy
 
