@@ -72,7 +72,7 @@
 
 <img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/17.png" width="550" height="350" />
 
-- Select a path for saving the output files of the Autopsy case.
+- Select the path for the image created in FTK Imager.
   
 <img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/18.png" width="550" height="350" />
 
