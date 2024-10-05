@@ -95,7 +95,7 @@
 
 - bullet
   
-<img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/23.png" width="350" height="250" />
+<img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/23.png" width="350" height="100" />
 
 - bullet
   
