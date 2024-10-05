@@ -116,11 +116,11 @@
 - bullet
 
 ## DBAN
-<img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/28.png" width="550" height="250" />
+<img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/28.png" width="650" height="250" />
 
 - bullet
   
-<img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/29.png" width="550" height="250" />
+<img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/29.png" width="650" height="250" />
 
 - bullet
 
