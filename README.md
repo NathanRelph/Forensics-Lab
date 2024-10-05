@@ -96,31 +96,32 @@
   
 <img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/23.png" width="350" height="75" />
 
-- Diskpart clean all is the command show here. It basically rewrites every sector on the USB with zeroes so the data is harder to recover.
+- Diskpart "clean all" is the command show here. It basically rewrites every sector on the USB with zeroes so the data is harder to recover.
   
 <img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/24.png" width="600" height="400" />
 
-- bullet
+- After that, to use the USB again, reformatting it with Disk Management is required for operation.
   
 <img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/25.png" width="350" height="150" />
 
-- bullet
+- This image shows the addition of the USB as a local disk in Autopsy.
   
 <img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/26.png" width="350" height="100" />
 
-- bullet
+- Then selecting it.
   
 <img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/27.png" width="200" height="250" />
 
-- bullet
+- By running this USB through Diskpart, the images and data previosly seen by Autopsy are no longer available.
 
 ## DBAN
 <img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/28.png" width="650" height="250" />
 
-- bullet
+- Darik's Boot and Nuke is another program like Diskpart, but it is able to wipe drives and other storage media multiple different ways.
   
 <img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/29.png" width="650" height="250" />
 
-- bullet
+- It is a tool used by the DoD that is able to wipe drives much more securely. There are applications that are able to recover files from storage media even after running them through Diskpart. That is why more advanced and thorough tools like DBAN are irreplaceable. The program allows for multiple passes/wipes on a drive, and it uses data sanitization algorithms. 
 
-
+## Note
+- This was a really fun project to do. It taught me that data is never truely gone from a computer unless securely removed using data sanitization methods. If I ever decide the sell a used hard drive in the future, diskpart will probably be adequate. But if I ever decide to work for the government, or need a drive to be super securely erased, I would use DBAN.
