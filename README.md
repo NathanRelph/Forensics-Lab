@@ -103,11 +103,11 @@
 
 - bullet
   
-<img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/25.png" width="350" height="250" />
+<img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/25.png" width="350" height="150" />
 
 - bullet
   
-<img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/26.png" width="350" height="250" />
+<img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/26.png" width="350" height="150" />
 
 - bullet
   
