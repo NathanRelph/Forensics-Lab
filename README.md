@@ -52,39 +52,39 @@
 
 <img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/12.png" width="350" height="250" />
 
-- bullet
+- On start up, click new case.
   
 <img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/13.png" width="550" height="350" />
 
-- bullet
+- Enter a case name, and directory to store files.
 
 <img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/14.png" width="550" height="350" />
 
-- bullet
+- The information for the case can also be input here for documentation purposes.
   
 <img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/15.png" width="550" height="350" />
 
-- bullet
+- After that, create a new host.
   
 <img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/16.png" width="550" height="350" />
 
-- bullet
+- Select the disk image since that's what we created with FTK Imager. It is also possible to pick local disk and skip the FTK Imager process if the USB device or storage device is directly connected.
 
 <img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/17.png" width="550" height="350" />
 
-- bullet
+- Select a path for saving the output files of the Autopsy case.
   
 <img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/18.png" width="550" height="350" />
 
-- bullet
+- Select the modules for the desired information you wish to search for in the image.
   
 <img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/19.png" width="600" height="150" />
 
-- bullet
+- And hit start to add the data source and begin analyzing the image.
   
 <img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/20.png" width="1250" height="300" />
 
-- bullet
+- On my usb image, these were the images that had previosly been deleted, but recoverable. Although data is deleted and put into the recycle bin, it still exists.
 
 ## Diskpart
 <img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/21.png" width="350" height="250" />
