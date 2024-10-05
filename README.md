@@ -62,19 +62,19 @@
 
 - bullet
   
-<img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/15.png" width="350" height="250" />
+<img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/15.png" width="550" height="350" />
 
 - bullet
   
-<img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/16.png" width="350" height="250" />
+<img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/16.png" width="550" height="350" />
 
 - bullet
 
-<img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/17.png" width="350" height="250" />
+<img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/17.png" width="550" height="350" />
 
 - bullet
   
-<img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/18.png" width="350" height="250" />
+<img src="https://github.com/NathanRelph/Forensics-Lab/blob/main/images/18.png" width="550" height="350" />
 
 - bullet
   
