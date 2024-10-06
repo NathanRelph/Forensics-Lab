@@ -124,4 +124,4 @@
 - It is a tool used by the DoD that is able to wipe drives much more securely. There are applications that are able to recover files from storage media even after running them through Diskpart. That is why more advanced and thorough tools like DBAN are irreplaceable. The program allows for multiple passes/wipes on a drive, and it uses data sanitization algorithms. 
 
 ## Note
-- This was a really fun project to do. It taught me that data is never truely gone from a computer unless securely removed using data sanitization methods. If I ever decide the sell a used hard drive in the future, diskpart will probably be adequate. But if I ever decide to work for the government, or need a drive to be super securely erased, I would use DBAN.
+- This was a really fun project to do. It taught me that data is never truly gone from a computer unless securely removed using data sanitization methods. If I ever decide the sell a used hard drive in the future, diskpart will probably be adequate. But if I ever decide to work for the government, or need a drive to be super securely erased, I would use DBAN.
