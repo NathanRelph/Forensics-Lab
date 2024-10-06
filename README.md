@@ -8,8 +8,8 @@
 
 - [FTK Imager](https://github.com/NathanRelph/Forensics-Lab/tree/main?tab=readme-ov-file#ftk-imager)
 - [Autopsy](https://github.com/NathanRelph/Forensics-Lab/blob/main/README.md#autopsy)
-- [Diskpart Link](https://github.com/NathanRelph/Forensics-Lab/blob/main/README.md#diskpart)
-- [DBAN Link](https://github.com/NathanRelph/Forensics-Lab/blob/main/README.md#dban)
+- [Diskpart](https://github.com/NathanRelph/Forensics-Lab/blob/main/README.md#diskpart)
+- [DBAN](https://github.com/NathanRelph/Forensics-Lab/blob/main/README.md#dban)
 
 
 <h2><ins>Goal:</ins></h2>
